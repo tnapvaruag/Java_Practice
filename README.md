@@ -1,3 +1,4 @@
 # Java_Practice
-I am learning JAVA programming language by myself.
-I am learning this language from javatpoint.com and also reffering various books.
+Hi this repository contains code which I am writing for the purpose to learn java programming.
+I am using javatpoint.com for the refrence.
+This repo is to learn GitHub while learning java simultaneously.
